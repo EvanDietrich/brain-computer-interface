@@ -1,5 +1,5 @@
-# Tufts-EEG
-This repository will contain the code and schematics developed by the Tufts University BCI team. This repository in particular will revolve around the EEG headset being developed, and the applications made.
+# brain-computer-interface
+This repository contains code and schematics developed by myself and the Tufts University BCI team. This repository in particular revolves around the EEG headset we have developed, and the applications/prototypes we build from its data.
 
 ## Usage
 To run this program locally:  
